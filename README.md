@@ -4,4 +4,4 @@
 
 Tem: Jogos educacionais
 
-## Descição: jogos educacionais que ajudam no desenvolvimento das crianças.
+## Descição: Jogos educacionais que ajudam no desenvolvimento das crianças.
