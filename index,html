@@ -1,22 +1,24 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Jogos Educacionais</title>
+    <link rel="stylesheet" href="geral.css">
 </head>
 <body>
-    <h1>MUDA O TITULO</h1>
-    <span>
-        trabalho de programação 
-    </span>
-    <h1>projeto mudança</h1>
-    <div>
-        to com fome que comer
-    </div>
-    <div>
-        Nova Div.
-    </div>
+    <header class="banner">
+     cabesario
+    </header>
+
+    <section>
+    sesão
+    </section>
+
+    <footer class="rodape">
+    roda pé
+    </footer>
 </body>
 </html>
