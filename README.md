@@ -1,7 +1,5 @@
-# segundoh_2023
+Projeto do João n. 16 e Livia 22
 
-## Projeto do Henrique No. 34, Eduardo No. 05
+Tema: 
 
-Tem: Jogos educacionais
-
-## Descição: Jogos educacionais que ajudam no desenvolvimento das crianças.
+Descrição
